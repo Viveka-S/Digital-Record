@@ -25,7 +25,7 @@ student have to submit their record in PDF format along with the following detai
 ## Corrected record
 ![sign_pdf](https://user-images.githubusercontent.com/34914655/58610108-ef83b600-82c7-11e9-96a9-5a8daddbe2d9.png)
 
-# Commented record
+## Commented record
 ![Comment](https://user-images.githubusercontent.com/34914655/58610136-062a0d00-82c8-11e9-906f-bd23b4965b7b.png)
 ![comment_pdf](https://user-images.githubusercontent.com/34914655/58610141-088c6700-82c8-11e9-93ce-e375facacf92.png)
 
